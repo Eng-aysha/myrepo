@@ -1,3 +1,63 @@
-#nap{
-    margin-right: auto;
+.body{
+    text-align: center;
+}
+
+#wrap{
+    background-color: #EEEEEE;
+    width: 1200px;
+    margin: 0 auto;
+    padding-left: 100px;
+} 
+
+
+.menu ul {
+
+    display: inline-flex;
+    margin-top: 0%;
+    
+}
+
+.menu ul li{
+    list-style: none;
+}
+
+.epara {
+
+    background-color: #7EE5DA ;
+    width: 496px;
+    padding-top: 10px;
+    
+}
+.npara{
+
+    background-color: #70CCC2 ;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 300px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    font-size: 13px ;
+
+} 
+.mpara{
+   background-color: #62B3AA;
+   width:500px ;
+   margin-right: 41px;
+   font-size: 13px;
+
+}
+
+.copy{
+    margin-top: 0px;
+    font-size: 13px;
+
+}
+.cop{
+    font-size: 13px;
+    color: purple;
+}
+
+.link {
+    color: purple;
 }
